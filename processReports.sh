@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # This file is part of the xTuple ERP: PostBooks Edition, a free and
 # open source Enterprise Resource Planning software suite,
